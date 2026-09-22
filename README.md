@@ -1,10 +1,10 @@
 # Olá! Eu sou o Ricardo Medeiros 👋
 
-**Analista de Dados | Em transição para Ciência de Dados**
+**Analista de Dados | Direcionado para Ciência de Dados**
 
 Sou um profissional de dados com forte foco em negócios e resolução de problemas estruturais. Com mais de 7 anos de atuação corporativa, venho liderando automações, construção de pipelines e modelagem de dados estratégicos que já impactaram diretamente decisões de Diretoria Executiva.
 
-Atualmente, estou migrando para **Data Science**, unindo minha bagagem de inteligência de negócios com Estatística, Machine Learning e Python para desenvolver soluções preditivas e análises avançadas.
+Atualmente, estou me direcionando para **Data Science**, unindo minha bagagem de inteligência de negócios com Estatística, Machine Learning e Python para desenvolver soluções preditivas e análises avançadas.
 
 ### 🎯 O que estou focando no momento
 - 🎓 Graduação em Ciência da Computação (IBMR - Previsão: 2028).
@@ -21,10 +21,15 @@ Atualmente, estou migrando para **Data Science**, unindo minha bagagem de inteli
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </div>
 
-### 📈 Estatísticas do GitHub
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RicardoMDA&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do Ricardo" />
-</div>
+<h3 align="left">🏆 Cursos e Certificações</h3>
+
+- 🏅 **Formação Carreira Ciência de Dados** - Alura (Em andamento)
+- 🏅 **Base: Python, Matemática, SQL e Nuvem** - Alura (08/2026)
+- 🏅 **Formação Cientista de Dados: O Curso Completo** - Udemy (2023)
+- 🏅 **Machine Learning e Data Science com Python de A à Z** - Udemy (2022)
+- 🏅 **Deep Learning com Python de A à Z: O Curso Completo** - Udemy (2022)
+- 🏅 **The Complete Python Bootcamp: From Zero to Hero in Python** - Udemy (2022)
+<br>
 
 ### 📫 Como falar comigo
 <div align="left">
